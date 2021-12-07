@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+requests
+dvc
+GitPython
+torch
+torchvision
+mlxtend
